@@ -11,6 +11,7 @@
 * :memo: https://www.udemy.com/course/aprende-a-dominar-git-de-cero-a-experto/learn/lecture/15106388#content
 * :octocat: https://docs.github.com/en
 * :heavy_check_mark: https://medium.com/@mehulgala77/github-fundamentals-clone-fetch-push-pull-fork-16d79bb16b79
+* :jigsaw: https://leanpub.com/git-flow/read
 
 # Downloads
 :arrow_down: https://git-scm.com/
